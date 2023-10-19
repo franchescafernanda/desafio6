@@ -1,9 +1,8 @@
 body {
     background-color: rgb(241, 198, 205);
-    font-family: "Montserrat", sans-serif;
+    font-family: "Monserrat": sans-serif;
     box-sizing: border-box;
 }
-
 
 .bg-lila{
     background-color: rgb(233, 131, 175) !important;
