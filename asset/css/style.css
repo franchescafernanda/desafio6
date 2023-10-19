@@ -1,11 +1,35 @@
 body {
     background-color: rgb(241, 198, 205);
-    font-family: "Monseserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
     box-sizing: border-box;
 }
 
-.nav {
-    background-color: rgb(243, 165, 178);
+
+.bg-lila{
+    background-color: rgb(233, 131, 175) !important;
+    color: wheat;
+}
+
+.bg-lila-aux{
+    background-color: rgb(233, 131, 175) !important;
+    color: #a91d84;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand:hover {
+    color: #a91d84; 
+}
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover {
+    color: #a91d84; 
+}
+
+.margin-datos{
+    margin-top: 100px;
 }
 
 h2 {
@@ -30,5 +54,6 @@ p {
 
 footer {
     text-align: center;
-    background-color: rgb(253, 125, 147);
+    background-color: purple; /* Cambia el color de fondo a púrpura */
+    color: white; /* Añade color blanco al texto del footer para mejorar la legibilidad */
 }
